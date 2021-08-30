@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54484c55.chunk.css",
+    "main.js": "/static/js/main.637e2815.chunk.js",
+    "main.js.map": "/static/js/main.637e2815.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ae08531.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ae08531.js.map",
+    "static/js/2.072a40c1.chunk.js": "/static/js/2.072a40c1.chunk.js",
+    "static/js/2.072a40c1.chunk.js.map": "/static/js/2.072a40c1.chunk.js.map",
+    "static/js/3.2eb90c5f.chunk.js": "/static/js/3.2eb90c5f.chunk.js",
+    "static/js/3.2eb90c5f.chunk.js.map": "/static/js/3.2eb90c5f.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.54484c55.chunk.css.map": "/static/css/main.54484c55.chunk.css.map",
+    "static/js/2.072a40c1.chunk.js.LICENSE.txt": "/static/js/2.072a40c1.chunk.js.LICENSE.txt",
+    "static/media/open_pokeball.327609e2.png": "/static/media/open_pokeball.327609e2.png",
+    "static/media/pokeball.9fc0eeae.png": "/static/media/pokeball.9fc0eeae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ae08531.js",
+    "static/js/2.072a40c1.chunk.js",
+    "static/css/main.54484c55.chunk.css",
+    "static/js/main.637e2815.chunk.js"
+  ]
+}
