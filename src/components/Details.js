@@ -147,6 +147,7 @@ function Details(result) {
             className="details-button-container"
           >
             <div className="details-button">
+              <div className="details-button-text">CATCH</div>
               <img
                 src={pokeball}
                 className="details-button-img"
